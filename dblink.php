@@ -1,12 +1,5 @@
 <?php
 
-/* 
-        $db_host = "localhost";//伺服器  192.168.66.63 
-        $db_username = "cchouse20";//帳
-	$db_password = "cchouse20!QAZ1qaz";//密
-        $dbname="cchouse20";//資料庫名稱
-        */
-
 $db_host = "127.0.0.1:3307"; //伺服器
 $db_username = "root"; //帳
 $db_password = ""; //密
